@@ -1,2 +1,2 @@
 # character_analysis
-A small treebank of Chinese characters
+A small treebank of the analysis of Chinese characters
